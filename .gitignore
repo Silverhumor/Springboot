@@ -1,0 +1,27 @@
+#JetBrains IDES
+.idea/
+target/
+out/
+*.iml
+
+#Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+.classpath
+.project
+.settings/
+
+#NetBeans
+build/
+dist/
+
+#SVN
+.svm/
+
+#macOS
+.DS_Store
+/.springBeans
